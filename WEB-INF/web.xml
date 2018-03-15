@@ -1,0 +1,9 @@
+<servlet>
+    <servlet-name>process</servlet-name>
+    <servlet-class>process</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>process</servlet-name>
+    <url-pattern>/onlineresumebuilder</url-pattern>
+  </servlet-mapping>
